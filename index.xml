@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>迹录</title>
-        <link>blog.iseeu.fun/</link>
+        <link>https://WangDF-X.github.io/</link>
         <description>Recent content on 迹录</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Wang.D.F</copyright><atom:link href="blog.iseeu.fun/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Wang.D.F</copyright><atom:link href="https://WangDF-X.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档|Archives</title>
-        <link>blog.iseeu.fun/archives/</link>
+        <link>https://WangDF-X.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>blog.iseeu.fun/archives/</guid>
+        <guid>https://WangDF-X.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于|About</title>
-        <link>blog.iseeu.fun/%E5%85%B3%E4%BA%8Eabout/</link>
+        <link>https://WangDF-X.github.io/%E5%85%B3%E4%BA%8Eabout/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>blog.iseeu.fun/%E5%85%B3%E4%BA%8Eabout/</guid>
+        <guid>https://WangDF-X.github.io/%E5%85%B3%E4%BA%8Eabout/</guid>
         <description>&lt;p&gt;迹录：记录下所有&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索|Search</title>
-        <link>blog.iseeu.fun/search/</link>
+        <link>https://WangDF-X.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>blog.iseeu.fun/search/</guid>
+        <guid>https://WangDF-X.github.io/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友链|Links</title>
-        <link>blog.iseeu.fun/%E5%8F%8B%E9%93%BElinks/</link>
+        <link>https://WangDF-X.github.io/%E5%8F%8B%E9%93%BElinks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>blog.iseeu.fun/%E5%8F%8B%E9%93%BElinks/</guid>
+        <guid>https://WangDF-X.github.io/%E5%8F%8B%E9%93%BElinks/</guid>
         <description></description>
         </item>
         
