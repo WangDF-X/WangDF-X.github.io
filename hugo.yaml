@@ -57,6 +57,8 @@ params:
     dateFormat:
         published: 2006-01-02
         lastUpdated: 2006-01-02 15:04 MST
+    
+    timeZone: Asia/Shanghai
 
     sidebar:
         emoji: 🐿️
@@ -76,18 +78,26 @@ params:
 
     comments:
         enabled: true
-        provider: giscus
+        provider: twikoo
+        twikoo:
+            envId: "https://twikoo.iseeu.fun"
+            version: 1.6.44
+            path: "window.location.pathname"
+            visitor: true
+            commentCount: true
+            lang: zh-cn
 
-        giscus:
-            repo: "WangDF-X/WangDF-X.github.io"
-            repoID: "R_kgDOP4wYLw"
-            category: "Comments"
-            categoryID: "DIC_kwDOP4wYL84CwV4u"
-            mapping: "pathname"
-            lightTheme: "light"
-            darkTheme: "dark"
-            reactionsEnabled: 1
-            emitMetadata: 0
+
+        # giscus:
+        #     repo: "WangDF-X/WangDF-X.github.io"
+        #     repoID: "R_kgDOP4wYLw"
+        #     category: "Comments"
+        #     categoryID: "DIC_kwDOP4wYL84CwV4u"
+        #     mapping: "pathname"
+        #     lightTheme: "light"
+        #     darkTheme: "dark"
+        #     reactionsEnabled: 1
+        #     emitMetadata: 0
 
     widgets:  # widgets部分可以自定义类型
         homepage:
