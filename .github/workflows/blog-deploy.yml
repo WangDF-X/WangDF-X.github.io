@@ -1,13 +1,13 @@
 name: deploy
 
-on:
-  workflow_dispatch:
+
 
 # 代码提交到main分支时触发github action
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   deploy:
